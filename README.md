@@ -9,3 +9,6 @@ Diabetes prediction - conversion of number sequences to transition states for a 
 
 <kbd><img src="https://github.com/Gagniuc/Diabetes-prediction-using-Markov-Chains/blob/main/screenshot/How%20to%202.PNG" /></kbd>
 
+# References
+
+<i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
